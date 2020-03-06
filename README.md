@@ -23,3 +23,5 @@ When I enable the starting automation and turn on the dining room light, the fol
 **[17.]** ...which triggers the light to turn back off and resets everything.
 
 See it in action [here](https://giphy.com/gifs/ZGInitFJ60QqXYxR6j/fullscreen) (at least until I can get the GIF to actually upload here...)
+
+No, the title does *not* say Rube Goldberg's package. You're gross.
